@@ -1,5 +1,7 @@
+.DS_Store
 .packages
 assets/avatar.png
+assets/github.png
 assets/linkedin.png
 assets/medium.png
 assets/twitter.png
